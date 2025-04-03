@@ -1,0 +1,118 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="kThVgKFzRSU1p0y9H6Ef">
+    <mxGraphModel dx="772" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-2" target="AN78wmYXGEd3Nxzg8AKj-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-2" value="生产过程中制程出现异常" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-3" target="AN78wmYXGEd3Nxzg8AKj-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-3" value="车间生产线根据不良现象和事实填写《制程异常通知单》" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-4" target="AN78wmYXGEd3Nxzg8AKj-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="320" />
+              <mxPoint x="360" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-43" value="重新填写&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;《制程异常通知单》&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AN78wmYXGEd3Nxzg8AKj-11" vertex="1" connectable="0">
+          <mxGeometry x="0.08" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-4" target="AN78wmYXGEd3Nxzg8AKj-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-28" value="ok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AN78wmYXGEd3Nxzg8AKj-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-4" value="IPQC确认" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-16" target="AN78wmYXGEd3Nxzg8AKj-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-16" value="PE、QE现场确认并进行原因分析，并给出临时决策" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-19" target="AN78wmYXGEd3Nxzg8AKj-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-19" value="各部门会议讨论处理确认责任部门" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-21" target="AN78wmYXGEd3Nxzg8AKj-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-21" value="责任部门现场确认进行临时对策，并给出永久性对策" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="240" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-24" target="AN78wmYXGEd3Nxzg8AKj-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-24" target="AN78wmYXGEd3Nxzg8AKj-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="800" />
+              <mxPoint x="400" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-24" value="PE或QE对责任部门的临时对策和永久性对策进行确认" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-29" target="AN78wmYXGEd3Nxzg8AKj-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-29" value="IPQC对制程异常的处理进行跟踪" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="240" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-31" target="AN78wmYXGEd3Nxzg8AKj-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="targetPoint" />
+            <mxPoint x="380" y="1040" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="401" y="1040" />
+              <mxPoint x="401" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-38" value="&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AN78wmYXGEd3Nxzg8AKj-33" vertex="1" connectable="0">
+          <mxGeometry x="0.4559" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-40" value="责任部门重新制定对策" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AN78wmYXGEd3Nxzg8AKj-33" vertex="1" connectable="0">
+          <mxGeometry x="0.4904" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AN78wmYXGEd3Nxzg8AKj-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-42" value="结束" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AN78wmYXGEd3Nxzg8AKj-41" vertex="1" connectable="0">
+          <mxGeometry x="-0.01" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AN78wmYXGEd3Nxzg8AKj-31" value="效果验证" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
