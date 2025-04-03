@@ -184,8 +184,8 @@
         <mxCell id="RhCVSsZL-JNFHZNiY2bx-57" value="对象特点及危险性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="48" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RhCVSsZL-JNFHZNiY2bx-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="RhCVSsZL-JNFHZNiY2bx-58" value="人员资质，性格&lt;div&gt;是否能胜任工作&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="313" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
