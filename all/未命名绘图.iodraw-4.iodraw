@@ -129,14 +129,6 @@
         <mxCell id="zd4DCzC72n0YhtWii5eN-74" value="RGB图像" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-120" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zd4DCzC72n0YhtWii5eN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;entryX=-0.015;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zd4DCzC72n0YhtWii5eN-32" target="zd4DCzC72n0YhtWii5eN-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="630" />
-              <mxPoint x="740" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zd4DCzC72n0YhtWii5eN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="zd4DCzC72n0YhtWii5eN-29" target="zd4DCzC72n0YhtWii5eN-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -147,6 +139,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zd4DCzC72n0YhtWii5eN-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="zd4DCzC72n0YhtWii5eN-31" target="zd4DCzC72n0YhtWii5eN-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zd4DCzC72n0YhtWii5eN-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;entryX=-0.009;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zd4DCzC72n0YhtWii5eN-32" target="zd4DCzC72n0YhtWii5eN-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
