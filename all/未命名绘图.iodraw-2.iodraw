@@ -87,8 +87,16 @@
         <mxCell id="UwObOt6Zk2YyhAN4PYTT-11" value="调用模型进行活体检测" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="720" y="320" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UwObOt6Zk2YyhAN4PYTT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UwObOt6Zk2YyhAN4PYTT-17" target="UwObOt6Zk2YyhAN4PYTT-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UwObOt6Zk2YyhAN4PYTT-17" value="对图片标注置信度" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="720" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UwObOt6Zk2YyhAN4PYTT-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
