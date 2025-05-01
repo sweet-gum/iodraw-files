@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zd4DCzC72n0YhtWii5eN-53" value="&lt;h4 style=&quot;font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; scrollbar-color: rgba(0, 0, 0, 0.06) rgba(0, 0, 0, 0); scrollbar-width: thin; margin-bottom: 12px; line-height: 1.6; margin-top: 0px; font-size: 16px; color: rgba(0, 0, 0, 0.88); text-align: start; background-color: rgb(255, 255, 255);&quot; data-sourcepos=&quot;29:1-29:26&quot;&gt;128×128×3 RGB图像&lt;/h4&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="-120" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zd4DCzC72n0YhtWii5eN-57" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="80" height="80" as="geometry" />
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="zd4DCzC72n0YhtWii5eN-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zd4DCzC72n0YhtWii5eN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="zd4DCzC72n0YhtWii5eN-59" target="zd4DCzC72n0YhtWii5eN-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
