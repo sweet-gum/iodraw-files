@@ -158,8 +158,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zd4DCzC72n0YhtWii5eN-74" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="570" width="80" height="80" as="geometry" />
+        <mxCell id="zd4DCzC72n0YhtWii5eN-74" value="RGB图像" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
