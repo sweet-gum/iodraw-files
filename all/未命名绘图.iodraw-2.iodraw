@@ -73,6 +73,9 @@
         <mxCell id="UwObOt6Zk2YyhAN4PYTT-7" value="输入图片" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UwObOt6Zk2YyhAN4PYTT-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
