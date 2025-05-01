@@ -64,7 +64,7 @@
         <mxCell id="TLcC7x-dOpEe_H1rcDwN-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="65" y="18" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UwObOt6Zk2YyhAN4PYTT-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="UwObOt6Zk2YyhAN4PYTT-6" value="人脸检测" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="720" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UwObOt6Zk2YyhAN4PYTT-7" value="输入图片" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
