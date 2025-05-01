@@ -59,7 +59,7 @@
           <mxGeometry x="360" y="770" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zd4DCzC72n0YhtWii5eN-32" value="自适应全局平均池化" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="590" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zd4DCzC72n0YhtWii5eN-33" value="全连接层&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.88); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;1000类别输出&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="510" width="80" height="300" as="geometry" />
@@ -87,14 +87,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="700" />
-              <mxPoint x="520" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zd4DCzC72n0YhtWii5eN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="zd4DCzC72n0YhtWii5eN-31" target="zd4DCzC72n0YhtWii5eN-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="820" />
               <mxPoint x="520" y="620" />
             </Array>
           </mxGeometry>
@@ -160,9 +152,6 @@
         </mxCell>
         <mxCell id="zd4DCzC72n0YhtWii5eN-74" value="RGB图像" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-120" y="600" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zd4DCzC72n0YhtWii5eN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;entryX=-0.015;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zd4DCzC72n0YhtWii5eN-32" target="zd4DCzC72n0YhtWii5eN-33">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
