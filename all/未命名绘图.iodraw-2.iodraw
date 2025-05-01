@@ -73,14 +73,20 @@
         <mxCell id="UwObOt6Zk2YyhAN4PYTT-7" value="输入图片" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UwObOt6Zk2YyhAN4PYTT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UwObOt6Zk2YyhAN4PYTT-11" target="UwObOt6Zk2YyhAN4PYTT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UwObOt6Zk2YyhAN4PYTT-11" value="调用模型进行活体检测" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UwObOt6Zk2YyhAN4PYTT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UwObOt6Zk2YyhAN4PYTT-17" target="UwObOt6Zk2YyhAN4PYTT-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UwObOt6Zk2YyhAN4PYTT-17" value="对图片标注置信度" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UwObOt6Zk2YyhAN4PYTT-19" value="输出图片" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="550" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
